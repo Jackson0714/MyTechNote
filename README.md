@@ -21,3 +21,9 @@
 - [【Git之旅】1.Git常用命令](https://www.cnblogs.com/jackson0714/p/git-command.html)   
 - [【Git之旅】2.Git对象](https://www.cnblogs.com/jackson0714/p/git-object.html)
 
+# 算法
+- [算法图解笔记 - 算法简介](https://www.cnblogs.com/jackson0714/p/algorithm_schema1.html)
+- [算法图解笔记 - 快速排序](https://www.cnblogs.com/jackson0714/p/algorithm_schema2.html)
+- [算法图解笔记 - 散列表 ](https://www.cnblogs.com/jackson0714/p/algorithm_schema3.html)
+
+
