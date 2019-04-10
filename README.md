@@ -26,4 +26,7 @@
 - [算法图解笔记 - 快速排序](https://www.cnblogs.com/jackson0714/p/algorithm_schema2.html)
 - [算法图解笔记 - 散列表 ](https://www.cnblogs.com/jackson0714/p/algorithm_schema3.html)
 
+# PMP
+- [PMBook - 6.项目进度管理](https://www.cnblogs.com/jackson0714/p/pmp1.html)  
+
 
