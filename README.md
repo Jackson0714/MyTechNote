@@ -29,5 +29,5 @@
 # PMP
 - [PMBook - 6.项目进度管理](https://www.cnblogs.com/jackson0714/p/pmp1.html)  
 - [PMBook - 7.项目成本管理](https://www.cnblogs.com/jackson0714/p/pmp2.html)   
-- [PMBook - 8.项目资源管理]()  
+- [PMBook - 8.项目质量管理]()  
 
