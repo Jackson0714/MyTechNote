@@ -16,6 +16,7 @@
 # 架构
 - [架构之旅1 - 扣减库存](https://www.cnblogs.com/jackson0714/p/Architecture1.html)
 - [架构必经之路2 - 熔断机制](https://www.cnblogs.com/jackson0714/p/Architecture2.html)
+- [架构必经之路3 - 秒杀](Todo)
 
 # Git 版本控制管理 
 - [【Git之旅】1.Git常用命令](https://www.cnblogs.com/jackson0714/p/git-command.html)   
