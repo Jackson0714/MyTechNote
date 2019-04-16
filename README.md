@@ -16,7 +16,7 @@
 # 架构
 - [架构之旅1 - 扣减库存](https://www.cnblogs.com/jackson0714/p/Architecture1.html)
 - [架构必经之路2 - 熔断机制](https://www.cnblogs.com/jackson0714/p/Architecture2.html)
-- [架构必经之路3 - 秒杀](Todo)
+- [架构必经之路3 - 秒杀] Todo
 
 # Git 版本控制管理 
 - [【Git之旅】1.Git常用命令](https://www.cnblogs.com/jackson0714/p/git-command.html)   
@@ -30,7 +30,7 @@
 # PMP
 - [PMBook - 6.项目进度管理](https://www.cnblogs.com/jackson0714/p/pmp1.html)  
 - [PMBook - 7.项目成本管理](https://www.cnblogs.com/jackson0714/p/pmp2.html)   
-- [PMBook - 8.项目质量管理]()  
+- [PMBook - 8.项目质量管理] Todo  
 
 # 容器化
 [1. 容器化部署一套云服务 第一讲 Jenkins（Docker + Jenkins + Yii2 + 云服务器)）](https://www.cnblogs.com/jackson0714/p/deploy1.html)
