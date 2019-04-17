@@ -30,7 +30,7 @@
 # PMP
 - [PMBook - 6.项目进度管理](https://www.cnblogs.com/jackson0714/p/pmp1.html)  
 - [PMBook - 7.项目成本管理](https://www.cnblogs.com/jackson0714/p/pmp2.html)   
-- [PMBook - 8.项目质量管理] Todo  
+- [PMBook - 8.项目质量管理](https://www.cnblogs.com/jackson0714/p/pmp3.html) 
 
 # 容器化
 [1. 容器化部署一套云服务 第一讲 Jenkins（Docker + Jenkins + Yii2 + 云服务器)）](https://www.cnblogs.com/jackson0714/p/deploy1.html)
