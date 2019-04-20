@@ -28,9 +28,11 @@
 - [算法图解笔记 - 散列表 ](https://www.cnblogs.com/jackson0714/p/algorithm_schema3.html)
 
 # PMP
+- [PMBook - 4.1 以考PMP为项目，整理项目章程](https://www.cnblogs.com/jackson0714/p/pmp4_1.html) 
 - [PMBook - 6.项目进度管理](https://www.cnblogs.com/jackson0714/p/pmp1.html)  
 - [PMBook - 7.项目成本管理](https://www.cnblogs.com/jackson0714/p/pmp2.html)   
 - [PMBook - 8.项目质量管理](https://www.cnblogs.com/jackson0714/p/pmp3.html) 
+
 
 # 容器化
 [1. 容器化部署一套云服务 第一讲 Jenkins（Docker + Jenkins + Yii2 + 云服务器)）](https://www.cnblogs.com/jackson0714/p/deploy1.html)
