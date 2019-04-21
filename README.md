@@ -32,6 +32,7 @@
 - [PMBook - 6.项目进度管理](https://www.cnblogs.com/jackson0714/p/pmp1.html)  
 - [PMBook - 7.项目成本管理](https://www.cnblogs.com/jackson0714/p/pmp2.html)   
 - [PMBook - 8.项目质量管理](https://www.cnblogs.com/jackson0714/p/pmp3.html) 
+- [PMBook - 上课体会](https://www.cnblogs.com/jackson0714/p/pmp_lesson_1.html) 
 
 
 # 容器化
