@@ -15,6 +15,9 @@
 # SQL性能调优
 - [【SQL性能调优】01.TempDB的使用和性能问题](http://www.cnblogs.com/jackson0714/p/TSQL_TempDB.html)
 
+# C#多线程之旅
+- [C#多线程之旅(1)——介绍和基本概念](http://www.cnblogs.com/jackson0714/p/5100372.html)
+
 # PHP
 - [PHP内核之旅-1.生命周期](http://www.cnblogs.com/jackson0714/p/PHP_1.html)
 - [PHP内核之旅-2.SAPI中的Cli](http://www.cnblogs.com/jackson0714/p/php2.html)
