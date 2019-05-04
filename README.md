@@ -60,3 +60,4 @@
 [1. 容器化部署一套云服务 第一讲 Jenkins（Docker + Jenkins + Yii2 + 云服务器)）](https://www.cnblogs.com/jackson0714/p/deploy1.html)
 
 # 知识管理工具
+- [PMBook - 知识管理工具](https://www.cnblogs.com/jackson0714/p/birddoc.html) 
