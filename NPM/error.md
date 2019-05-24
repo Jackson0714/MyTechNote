@@ -1,4 +1,4 @@
-npm run build 编译时遇到问题
+## 01.Unexpected token ILLEGAL
 ```
 user@wt01084-048:~/project/scrm/doc$ npm run build
 
