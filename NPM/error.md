@@ -1,3 +1,5 @@
+npm run build 编译时遇到问题
+```
 user@wt01084-048:~/project/scrm/doc$ npm run build
 
 > knowledge-base@1.0.0 build /home/user/project/scrm/doc
@@ -21,7 +23,7 @@ npm WARN For further explanations, please read
 /usr/share/doc/nodejs/README.Debian
  
 npm ERR! not ok code 0
-
+```
 ## 解决方案
 使用 root 账户
 sudo su 
