@@ -24,7 +24,7 @@ npm WARN For further explanations, please read
  
 npm ERR! not ok code 0
 ```
-## 解决方案
+### 解决方案
 使用 root 账户
 sudo su 
 npm run build
