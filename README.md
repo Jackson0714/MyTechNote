@@ -54,7 +54,7 @@
 - [PMBook - 7.项目成本管理](https://www.cnblogs.com/jackson0714/p/pmp2.html)   
 - [PMBook - 8.项目质量管理](https://www.cnblogs.com/jackson0714/p/pmp3.html) 
 - [PMBook - 上课体会](https://www.cnblogs.com/jackson0714/p/pmp_lesson_1.html) 
-
+- [为了考PMP，我做了一个刷题小程序](https://www.cnblogs.com/jackson0714/p/weapp.html) 
 
 # 容器化
 [1. 容器化部署一套云服务 第一讲 Jenkins（Docker + Jenkins + Yii2 + 云服务器)）](https://www.cnblogs.com/jackson0714/p/deploy1.html)
