@@ -1,5 +1,5 @@
 # Spring Cloud
-- [【pigx学习之路】pigx基础环境安装（windows版）](http://www.cnblogs.com/jackson0714/p/TSQLFundamentals_01.html)  
+- [【pigx学习之路】pigx基础环境安装（windows版）](https://www.cnblogs.com/jackson0714/p/springcloud01.html)  
 
 # SQL 基础
 - [【T-SQL基础】01.单表查询-几道sql查询题](http://www.cnblogs.com/jackson0714/p/TSQLFundamentals_01.html)
