@@ -1,5 +1,5 @@
 # Spring Cloud
-- [【SpringCloud之pigx框架学习之路 】 1.pigx基础环境安装](https://www.cnblogs.com/jackson0714/p/springcloud01.html)   
+- [【SpringCloud之pigx框架学习之路 】1.基础环境安装](https://www.cnblogs.com/jackson0714/p/springcloud01.html)   
 - [【SpringCloud之pigx框架学习之路 】2.部署pigx](https://www.cnblogs.com/jackson0714/p/springcloud02.html)    
 
 # SQL 基础
